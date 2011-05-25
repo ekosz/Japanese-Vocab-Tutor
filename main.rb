@@ -12,7 +12,7 @@ loop do
 end
 
 begin
-  japanese = JSON.parse File.read "level_#{input}.json"
+  japanese = JSON.parse File.read "levels/level_#{input}.json"
 rescue Errno::ENOENT
   # If can't find / read the level file
   puts "I can't seem to find that level.  Try running scrapper.rb again"

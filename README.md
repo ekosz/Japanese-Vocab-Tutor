@@ -20,6 +20,13 @@ How to Install
 
 Its that simple
 
+Web Version
+-----------
+
+I like this project so much I decided to make it into a Web App.  You can get
+it at the Google [Chrome Web Store](https://chrome.google.com/webstore/detail/ldemblkooloonmjfiainhkhmmlelfnfb).
+
+
 Closing thoughts
 ---------------
  
